@@ -1,0 +1,19 @@
+{
+  "name": "keppner-recipes-js",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Keppner Family Recipes - Eleventy",
+  "scripts": {
+    "build": "eleventy",
+    "dev": "eleventy --serve",
+    "verify": "node verify-build.js"
+  },
+  "keywords": [],
+  "author": "Russell Keppner",
+  "license": "MIT",
+  "dependencies": {
+    "@11ty/eleventy": "^2.0.0",
+    "@11ty/eleventy-plugin-rss": "^2.0.0",
+    "eleventy-sass": "^2.2.0"
+  }
+}
