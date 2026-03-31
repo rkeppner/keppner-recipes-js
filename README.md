@@ -37,7 +37,7 @@ npm run verify
 ## Project Structure
 
 *   `_posts/`: Recipe markdown files
-*   `_layouts/`: Page templates (Nunjucks)
+*   `_layouts/`: Page templates (Liquid)
 *   `_includes/`: Reusable components and partials
 *   `_sass/`: Stylesheets
 *   `_data/`: Global data files

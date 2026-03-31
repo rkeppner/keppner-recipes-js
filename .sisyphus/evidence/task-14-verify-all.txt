@@ -1,0 +1,63 @@
+
+[1] Recipe count
+  PASS  Exactly 137 recipe HTML files
+
+[2] Category pages
+  PASS  categories/appetizer/index.html exists
+  PASS  categories/asian/index.html exists
+  PASS  categories/barbecue/index.html exists
+  PASS  categories/bread/index.html exists
+  PASS  categories/breakfast/index.html exists
+  PASS  categories/british/index.html exists
+  PASS  categories/cajun/index.html exists
+  PASS  categories/carnival/index.html exists
+  PASS  categories/dessert/index.html exists
+  PASS  categories/diet/index.html exists
+  PASS  categories/drink/index.html exists
+  PASS  categories/indian/index.html exists
+  PASS  categories/irish/index.html exists
+  PASS  categories/italian/index.html exists
+  PASS  categories/korean/index.html exists
+  PASS  categories/mediterranean/index.html exists
+  PASS  categories/mexican/index.html exists
+  PASS  categories/pasta/index.html exists
+  PASS  categories/pizza/index.html exists
+  PASS  categories/sandwich/index.html exists
+  PASS  categories/sides/index.html exists
+  PASS  categories/soup/index.html exists
+
+[3] Pagination pages
+  PASS  _site/index.html exists
+  PASS  recipes/2/index.html exists
+  PASS  recipes/3/index.html exists
+  PASS  recipes/4/index.html exists
+  PASS  recipes/5/index.html exists
+  PASS  recipes/6/index.html exists
+  PASS  recipes/7/index.html exists
+
+[4] Static pages
+  PASS  _site/about.html exists
+  PASS  _site/archives/index.html exists
+  PASS  _site/404.html exists
+
+[5] Feed
+  PASS  _site/feed.xml exists
+  PASS  feed.xml is non-empty (>100 bytes, got 61548)
+
+[6] Sitemap
+  PASS  _site/sitemap.xml exists
+  PASS  sitemap.xml is non-empty (got 12249 bytes)
+
+[7] CSS
+  PASS  _site/assets/main.css exists
+  PASS  main.css is non-empty (>100 bytes, got 7962)
+
+[8] No unprocessed post_url tags in recipe body content
+  PASS  0 unprocessed post_url tags in body content (found 0)
+
+[9] Cross-reference link targets
+  PASS  0 broken cross-reference links (found 0)
+
+──────────────────────────────────────────────────
+41/41 checks passed
+All checks passed!

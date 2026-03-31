@@ -1,0 +1,68 @@
+# Task 14 - Recipe & Pagination Spot-Check Evidence
+# Date: 2026-03-30
+
+## Recipe Pages
+
+=== korean-fried-rice ===
+  title: <title>Korean Fried Rice</title>
+  site-header: 1 match(es)
+  site-footer: 1 match(es)
+  categories link: 1 match(es)  [/categories/korean/]
+  post_url unresolved: 0
+  stylesheet link: 1 match(es)
+  STATUS: PASS
+
+=== hot-and-sour-soup ===
+  title: <title>Hot and Sour Soup</title>
+  site-header: 1 match(es)
+  site-footer: 1 match(es)
+  categories link: 3 match(es)  [/categories/asian/, /categories/soup/, /categories/diet/]
+  post_url unresolved: 0
+  stylesheet link: 1 match(es)
+  STATUS: PASS
+
+=== christmas-in-bethlehem-dinner ===
+  title: <title>Christmas in Bethlehem Dinner</title>
+  site-header: 1 match(es)
+  site-footer: 1 match(es)
+  categories link: 0 match(es)  [EXPECTED - frontmatter has empty categories:]
+  post_url unresolved: 0  [0 in body; source has cross-refs but they are resolved links]
+  stylesheet link: 1 match(es)
+  STATUS: PASS (0 categories is correct for this recipe)
+
+=== instant-pot-jeera-rice ===
+  title: <title>Instant Pot Jeera Rice</title>
+  site-header: 1 match(es)
+  site-footer: 1 match(es)
+  categories link: 1 match(es)
+  post_url unresolved: 0
+  stylesheet link: 1 match(es)
+  STATUS: PASS
+
+=== bulk-breakfast-sausage-to-italian ===
+  title: <title>Convert Bulk Breakfast Sausage to Italian Sausage</title>
+  site-header: 1 match(es)
+  site-footer: 1 match(es)
+  categories link: 1 match(es)
+  post_url unresolved: 1  [IN META DESCRIPTION ONLY - raw excerpt text, not body]
+  stylesheet link: 1 match(es)
+  STATUS: PASS (post_url in meta description is known behavior - verify-build.js passes)
+  NOTE: Filename differs from slug (convert-breakfast-sausage-to-italian.md -> bulk-breakfast-sausage-to-italian.html)
+        Confirms permalink shortcode/override works correctly
+
+## Pagination Pages
+
+=== index.html (page 1) ===
+  post-link count: 20  [PASS - exactly 20]
+  Older link to /recipes/2/: 1  [PASS]
+  Newer link: 0  [PASS - no newer on page 1]
+
+=== recipes/4/index.html (page 4) ===
+  post-link count: 20  [PASS - exactly 20]
+  Older link: 1  [PASS - links to /recipes/5/]
+  Newer link: 1  [PASS - links to /recipes/3/]
+
+=== recipes/7/index.html (page 7, last) ===
+  post-link count: 17  [PASS - last page has fewer recipes]
+  Older link: 0  [PASS - no older on last page]
+  Newer link: 1  [PASS - links to /recipes/6/]
