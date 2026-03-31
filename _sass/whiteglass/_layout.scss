@@ -1,6 +1,7 @@
 @use 'sass:math';
 @use 'variables' as *;
 @use 'mixins' as *;
+@use 'base' as *;
 
 /**
  * Site header
@@ -131,7 +132,7 @@
 
     &,
     &:visited {
-      color: $grey-color;
+      color: $grey-color-dark;
       background-color: $grey-color-light;
     }
 
@@ -163,6 +164,14 @@
 
 .post-content {
   margin-bottom: $spacing-unit;
+
+  h1 {
+    font-size: 38px;
+
+    @include media-query($on-laptop) {
+      font-size: 34px;
+    }
+  }
 
   h2 {
     font-size: 32px;

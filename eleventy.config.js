@@ -27,6 +27,29 @@ export default function(eleventyConfig) {
   // Add RSS plugin
   eleventyConfig.addPlugin(rssPlugin);
 
+  // Custom date filter — format in UTC to match Jekyll behavior
+  eleventyConfig.addFilter("date", (date, format) => {
+    const d = (date === "now" || date === undefined || date === null)
+      ? new Date()
+      : new Date(date);
+
+    const months = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+
+    if (!format) return d.toUTCString();
+
+    return format
+      .replace("%Y", String(d.getUTCFullYear()))
+      .replace("%-d", String(d.getUTCDate()))
+      .replace("%d", String(d.getUTCDate()).padStart(2, "0"))
+      .replace("%b", months[d.getUTCMonth()])
+      .replace("%m", String(d.getUTCMonth() + 1).padStart(2, "0"))
+      .replace("%-m", String(d.getUTCMonth() + 1))
+      .replace("%e", String(d.getUTCDate()))
+      .replace("%H", String(d.getUTCHours()).padStart(2, "0"))
+      .replace("%M", String(d.getUTCMinutes()).padStart(2, "0"))
+      .replace("%S", String(d.getUTCSeconds()).padStart(2, "0"));
+  });
+
   eleventyConfig.addFilter("relative_url", (url) => {
     return url;
   });

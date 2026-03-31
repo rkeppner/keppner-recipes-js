@@ -5,7 +5,7 @@
   "description": "Keppner Family Recipes - Eleventy",
   "scripts": {
     "build": "eleventy",
-    "dev": "eleventy --serve",
+    "dev": "eleventy --serve --port=8088",
     "verify": "node verify-build.js"
   },
   "keywords": [],

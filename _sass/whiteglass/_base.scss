@@ -28,13 +28,22 @@ body {
        -o-font-feature-settings: "kern" 1;
           font-feature-settings: "kern" 1;
   font-kerning: normal;
+  word-wrap: break-word;
 }
 
-
+table {
+  width: 100%;
+  margin: 0 0 20px 0;
+  text-align: left;
+}
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
+%vertical-rhythm {
+  margin-bottom: math.div($spacing-unit, 2);
+}
+
 h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure {
@@ -93,6 +102,10 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+h1:lang(ko), h2:lang(ko), h3:lang(ko) {
+  word-break: keep-all;
+}
+
 
 
 /**
@@ -130,6 +143,10 @@ blockquote {
   }
 }
 
+blockquote pre, blockquote code {
+  color: $text-color;
+}
+
 
 
 /**
@@ -153,7 +170,7 @@ code {
   font-size: 13px;
   border: 1px solid $grey-color-light;
   border-radius: 0;
-  background-color: color.adjust($grey-color-light, $lightness: 5%);
+  background-color: #f8f8f8;
 }
 
 code {
@@ -163,6 +180,7 @@ code {
 pre {
   padding: 8px 12px;
   overflow-x: auto;
+  word-wrap: normal;
 
   > code {
     border: 0;
@@ -191,4 +209,13 @@ pre {
     padding-right: math.div($spacing-unit, 2);
     padding-left: math.div($spacing-unit, 2);
   }
+}
+
+/**
+ * Clearfix
+ */
+%clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
 }
