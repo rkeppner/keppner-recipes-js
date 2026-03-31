@@ -1,0 +1,177 @@
+
+> keppner-recipes-js@1.0.0 build
+> eleventy
+
+[11ty] Writing ./_site/feed.xml from ./feed.liquid
+[11ty] Writing ./_site/sitemap.xml from ./sitemap.liquid
+[11ty] Writing ./_site/assets/main.css from ./assets/main.scss
+[11ty] Writing ./_site/404.html from ./404.html (liquid)
+[11ty] Writing ./_site/about.html from ./about.md (liquid)
+[11ty] Writing ./_site/recipes/chimichurri.html from ./_posts/2007-08-24-chimichurri.md (liquid)
+[11ty] Writing ./_site/recipes/kimchi.html from ./_posts/2005-11-15-kimchi.md (liquid)
+[11ty] Writing ./_site/recipes/crispy-oven-fries.html from ./_posts/2021-07-18-crispy-oven-fries.md (liquid)
+[11ty] Writing ./_site/recipes/condensed-milk-and-browned-butter-brownies.html from ./_posts/2021-07-17-condensed-milk-and-browned-butter-brownies.md (liquid)
+[11ty] Writing ./_site/recipes/lo-mein.html from ./_posts/2021-07-21-lo-mein.md (liquid)
+[11ty] Writing ./_site/recipes/oven-roasted-tomato-sauce.html from ./_posts/2024-09-28-oven-roasted-tomato-sauce.md (liquid)
+[11ty] Writing ./_site/recipes/chewy-flatbread.html from ./_posts/2022-03-14-chewy-flatbread.md (liquid)
+[11ty] Writing ./_site/recipes/stuffed-pepper-casserole.html from ./_posts/2025-09-17-stuffed-pepper-casserole.md (liquid)
+[11ty] Writing ./_site/recipes/swedish-meatballs.html from ./_posts/2021-12-23-swedish-meatballs.md (liquid)
+[11ty] Writing ./_site/recipes/homemade-chex-mix.html from ./_posts/2020-01-22-homemade-chex-mix.md (liquid)
+[11ty] Writing ./_site/recipes/christmas-in-bethlehem-dinner.html from ./_posts/2019-12-25-christmas-in-bethlehem-dinner.md (liquid)
+[11ty] Writing ./_site/recipes/soft-dinner-rolls.html from ./_posts/2024-11-17-soft-dinner-rolls.md (liquid)
+[11ty] Writing ./_site/recipes/super-lazy-sourdough-bread.html from ./_posts/2023-12-25-super-lazy-sourdough-bread.md (liquid)
+[11ty] Writing ./_site/recipes/instant-pot-rice-pilaf.html from ./_posts/2022-11-22-instant-pot-rice-pilaf.md (liquid)
+[11ty] Writing ./_site/recipes/oven-fried-rice.html from ./_posts/2022-02-24-oven-fried-rice.md (liquid)
+[11ty] Writing ./_site/recipes/sweet-savory-spinach-salad.html from ./_posts/2009-05-21-sweet-savory-spinach-salad.md (liquid)
+[11ty] Writing ./_site/recipes/oven-fried-pork-chops.html from ./_posts/2022-11-21-oven-fried-pork-chops.md (liquid)
+[11ty] Writing ./_site/recipes/loaded-baked-potato-soup.html from ./_posts/2025-12-14-loaded-baked-potato-soup.md (liquid)
+[11ty] Writing ./_site/recipes/smoked-thanksgiving-turkey.html from ./_posts/2025-11-30-smoked-thanksgiving-turkey.md (liquid)
+[11ty] Writing ./_site/recipes/instant-pot-rice.html from ./_posts/2024-01-14-instant-pot-rice.md (liquid)
+[11ty] Writing ./_site/recipes/chicken-rice-casserole.html from ./_posts/2026-01-19-chicken-rice-casserole.md (liquid)
+[11ty] Writing ./_site/recipes/holiday-pull-apart.html from ./_posts/2024-11-23-holiday-pull-apart.md (liquid)
+[11ty] Writing ./_site/recipes/potluck-gelatin-salad.html from ./_posts/2021-07-20-potluck-gelatin-salad.md (liquid)
+[11ty] Writing ./_site/recipes/baked-tilapia.html from ./_posts/2020-01-22-baked-tilapia.md (liquid)
+[11ty] Writing ./_site/recipes/pull-apart-dinner-rolls.html from ./_posts/2022-12-24-pull-apart-dinner-rolls.md (liquid)
+[11ty] Writing ./_site/recipes/sweet-sriracha-chicken-chili-aka-sucker-punch.html from ./_posts/2014-11-23-sweet-sriracha-chicken-chili-aka-sucker-punch.md (liquid)
+[11ty] Writing ./_site/recipes/roast-beef-eye-round.html from ./_posts/2025-12-25-roast-beef-eye-round.md (liquid)
+[11ty] Writing ./_site/recipes/pulled-pork-roast.html from ./_posts/2025-12-21-pulled-pork-roast.md (liquid)
+[11ty] Writing ./_site/recipes/enchilada-sauce-chili-gravy.html from ./_posts/2014-11-23-enchilada-sauce-chili-gravy.md (liquid)
+[11ty] Writing ./_site/recipes/chicken-souvlaki-pizza.html from ./_posts/2007-06-02-chicken-souvlaki-pizza.md (liquid)
+[11ty] Writing ./_site/recipes/teriyaki-marinade.html from ./_posts/2007-06-06-teriyaki-marinade.md (liquid)
+[11ty] Writing ./_site/recipes/instant-pot-jambalaya.html from ./_posts/2020-01-17-instant-pot-jambalaya.md (liquid)
+[11ty] Writing ./_site/recipes/baba-ghanoush.html from ./_posts/2007-06-03-baba-ghanoush.md (liquid)
+[11ty] Writing ./_site/recipes/taco-sauce.html from ./_posts/2013-02-17-taco-sauce.md (liquid)
+[11ty] Writing ./_site/recipes/instant-pot-butter-chicken-with-mushrooms.html from ./_posts/2020-01-30-instant-pot-butter-chicken-with-mushrooms.md (liquid)
+[11ty] Writing ./_site/recipes/cheap-chocolate-blender-shake.html from ./_posts/2017-02-17-cheap-chocolate-blender-shake.md (liquid)
+[11ty] Writing ./_site/recipes/creamy-wheat-farina-hot-cereal.html from ./_posts/2020-01-29-creamy-wheat-farina-hot-cereal.md (liquid)
+[11ty] Writing ./_site/recipes/chile-rellenos-casserole.html from ./_posts/2019-12-26-chile-rellenos-casserole.md (liquid)
+[11ty] Writing ./_site/recipes/chicken-enchilada-soup.html from ./_posts/2017-11-04-chicken-enchilada-soup.md (liquid)
+[11ty] Writing ./_site/recipes/sour-barley-pita.html from ./_posts/2020-01-22-sour-barley-pita.md (liquid)
+[11ty] Writing ./_site/recipes/instant-pot-jeera-rice.html from ./_posts/2020-01-30-instant-pot-jeera-rice.md (liquid)
+[11ty] Writing ./_site/recipes/spanish-rice.html from ./_posts/2019-12-26-spanish-rice.md (liquid)
+[11ty] Writing ./_site/recipes/irish-soda-bread.html from ./_posts/2021-03-17-irish-soda-bread.md (liquid)
+[11ty] Writing ./_site/recipes/basic-crepes.html from ./_posts/2021-07-26-basic-crepes.md (liquid)
+[11ty] Writing ./_site/recipes/instant-pot-zuppa-toscana.html from ./_posts/2020-04-23-instant-pot-zuppa-toscana.md (liquid)
+[11ty] Writing ./_site/recipes/vegetable-korma.html from ./_posts/2021-08-25-vegetable-korma.md (liquid)
+[11ty] Writing ./_site/recipes/instant-pot-lentil-stew.html from ./_posts/2020-01-22-instant-pot-lentil-stew.md (liquid)
+[11ty] Writing ./_site/recipes/tabouli-salad.html from ./_posts/2020-01-22-tabouli-salad.md (liquid)
+[11ty] Writing ./_site/recipes/instant-pot-split-pea-soup.html from ./_posts/2020-01-31-instant-pot-split-pea-soup.md (liquid)
+[11ty] Writing ./_site/recipes/cream-cheese-crepe-filling.html from ./_posts/2021-09-12-cream-cheese-crepe-filling.md (liquid)
+[11ty] Writing ./_site/recipes/basic-hummus.html from ./_posts/2007-06-02-basic-hummus.md (liquid)
+[11ty] Writing ./_site/recipes/instant-pot-collard-greens.html from ./_posts/2020-01-17-instant-pot-collard-greens.md (liquid)
+[11ty] Writing ./_site/recipes/chicken-shawarma-israeli-salad.html from ./_posts/2017-09-09-chicken-shawarma-israeli-salad.md (liquid)
+[11ty] Writing ./_site/recipes/instant-pot-potato-salad.html from ./_posts/2021-07-16-instant-pot-potato-salad.md (liquid)
+[11ty] Writing ./_site/recipes/banana-bars-with-cream-cheese-frosting.html from ./_posts/2021-07-25-banana-bars-with-cream-cheese-frosting.md (liquid)
+[11ty] Writing ./_site/recipes/tzatziki.html from ./_posts/2022-03-14-tzatziki.md (liquid)
+[11ty] Writing ./_site/recipes/classic-cheesecake.html from ./_posts/2021-08-23-classic-cheesecake.md (liquid)
+[11ty] Writing ./_site/recipes/chinese-five-spice-powder.html from ./_posts/2022-02-23-chinese-five-spice-powder.md (liquid)
+[11ty] Writing ./_site/recipes/shirataki-pad-thai.html from ./_posts/2022-04-24-shirataki-pad-thai.md (liquid)
+[11ty] Writing ./_site/recipes/baked-spanish-rice.html from ./_posts/2022-02-26-baked-spanish-rice.md (liquid)
+[11ty] Writing ./_site/recipes/elephant-ears.html from ./_posts/2021-09-17-elephant-ears.md (liquid)
+[11ty] Writing ./_site/recipes/stir-fry-sauce.html from ./_posts/2021-04-14-stir-fry-sauce.md (liquid)
+[11ty] Writing ./_site/recipes/pumpkin-pie-dump-cake.html from ./_posts/2022-03-19-pumpkin-pie-dump-cake.md (liquid)
+[11ty] Writing ./_site/recipes/no-bake-chocolate-eclair-cake.html from ./_posts/2021-07-19-no-bake-chocolate-eclair-cake.md (liquid)
+[11ty] Writing ./_site/recipes/chana-masala.html from ./_posts/2022-05-19-chana-masala.md (liquid)
+[11ty] Writing ./_site/recipes/instant-pot-sweet-and-sour-meatballs.html from ./_posts/2020-02-19-instant-pot-sweet-and-sour-meatballs.md (liquid)
+[11ty] Writing ./_site/recipes/restaurant-style-salsa.html from ./_posts/2021-09-05-restaurant-style-salsa.md (liquid)
+[11ty] Writing ./_site/recipes/chewy-oatmeal-cookies.html from ./_posts/2021-09-01-chewy-oatmeal-cookies.md (liquid)
+[11ty] Writing ./_site/recipes/egg-drop-soup.html from ./_posts/2022-04-25-egg-drop-soup.md (liquid)
+[11ty] Writing ./_site/recipes/lazy-man-pizza-crust.html from ./_posts/2021-07-22-lazy-man-pizza-crust.md (liquid)
+[11ty] Writing ./_site/recipes/pineapple-icebox-cake.html from ./_posts/2021-06-29-pineapple-icebox-cake.md (liquid)
+[11ty] Writing ./_site/recipes/simple-fruit-cobbler.html from ./_posts/2022-07-25-simple-fruit-cobbler.md (liquid)
+[11ty] Writing ./_site/recipes/lentil-quinoa-pilaf.html from ./_posts/2022-04-29-lentil-quinoa-pilaf.md (liquid)
+[11ty] Writing ./_site/recipes/microwave-brownies.html from ./_posts/2023-02-15-microwave-brownies.md (liquid)
+[11ty] Writing ./_site/recipes/air-fryer-chicken-katsu.html from ./_posts/2022-06-20-air-fryer-chicken-katsu.md (liquid)
+[11ty] Writing ./_site/recipes/reduced-calorie-funeral-potatoes.html from ./_posts/2024-03-31-reduced-calorie-funeral-potatoes.md (liquid)
+[11ty] Writing ./_site/recipes/single-serving-carrot-cake.html from ./_posts/2022-11-10-single-serving-carrot-cake.md (liquid)
+[11ty] Writing ./_site/recipes/low-fat-ice-cream.html from ./_posts/2022-07-22-low-fat-ice-cream.md (liquid)
+[11ty] Writing ./_site/recipes/air-fryer-chicken-wings.html from ./_posts/2024-09-18-air-fryer-chicken-wings.md (liquid)
+[11ty] Writing ./_site/recipes/cheese-ball.html from ./_posts/2020-12-04-cheese-ball.md (liquid)
+[11ty] Writing ./_site/recipes/air-fryer-fish-tacos.html from ./_posts/2022-07-23-air-fryer-fish-tacos.md (liquid)
+[11ty] Writing ./_site/recipes/ranchero-sauce.html from ./_posts/2022-07-24-ranchero-sauce.md (liquid)
+[11ty] Writing ./_site/recipes/oven-smoked-chicken.html from ./_posts/2023-05-29-oven-smoked-chicken.md (liquid)
+[11ty] Writing ./_site/recipes/classic-chocolate-chip-cookies.html from ./_posts/2024-02-27-classic-chocolate-chip-cookies.md (liquid)
+[11ty] Writing ./_site/recipes/sourdough-chocolate-chip-cookies.html from ./_posts/2024-03-04-sourdough-chocolate-chip-cookies.md (liquid)
+[11ty] Writing ./_site/recipes/low-fat-cheese-sauce.html from ./_posts/2022-06-30-low-fat-cheese-sauce.md (liquid)
+[11ty] Writing ./_site/recipes/broccoli-chicken.html from ./_posts/2022-06-21-broccoli-chicken.md (liquid)
+[11ty] Writing ./_site/recipes/spinach-artichoke-dip.html from ./_posts/2022-12-18-spinach-artichoke-dip.md (liquid)
+[11ty] Writing ./_site/recipes/single-serving-brownie.html from ./_posts/2023-01-14-single-serving-brownie.md (liquid)
+[11ty] Writing ./_site/recipes/chicken-sausage-gumbo.html from ./_posts/2024-02-13-chicken-sausage-gumbo.md (liquid)
+[11ty] Writing ./_site/recipes/asian-lettuce-wraps.html from ./_posts/2025-01-11-asian-lettuce-wraps.md (liquid)
+[11ty] Writing ./_site/recipes/kheema-matar.html from ./_posts/2021-08-24-kheema-matar.md (liquid)
+[11ty] Writing ./_site/recipes/french-toast-casserole.html from ./_posts/2025-01-12-french-toast-casserole.md (liquid)
+[11ty] Writing ./_site/recipes/clam-chowder.html from ./_posts/2025-07-06-clam-chowder.md (liquid)
+[11ty] Writing ./_site/recipes/potsticker-sauce.html from ./_posts/2023-08-01-potsticker-sauce.md (liquid)
+[11ty] Writing ./_site/recipes/zucchini-texas-sheet-cake.html from ./_posts/2023-09-17-zucchini-texas-sheet-cake.md (liquid)
+[11ty] Writing ./_site/recipes/grandmas-baked-beans.html from ./_posts/2022-09-25-grandmas-baked-beans.md (liquid)
+[11ty] Writing ./_site/recipes/tiramisu-overnight-oats.html from ./_posts/2024-03-31-tiramisu-overnight-oats.md (liquid)
+[11ty] Writing ./_site/recipes/chicken-spaghetti.html from ./_posts/2025-04-28-chicken-spaghetti.md (liquid)
+[11ty] Writing ./_site/recipes/air-fried-fair-foods.html from ./_posts/2024-09-07-air-fried-fair-foods.md (liquid)
+[11ty] Writing ./_site/recipes/texas-sheet-cake.html from ./_posts/2025-05-09-texas-sheet-cake.md (liquid)
+[11ty] Writing ./_site/recipes/hot-and-sour-soup.html from ./_posts/2022-04-28-hot-and-sour-soup.md (liquid)
+[11ty] Writing ./_site/recipes/butter-chicken-from-rotisserie.html from ./_posts/2025-06-29-butter-chicken-from-rotisserie.md (liquid)
+[11ty] Writing ./_site/recipes/bulk-breakfast-sausage-to-italian.html from ./_posts/2025-07-26-convert-breakfast-sausage-to-italian.md (liquid)
+[11ty] Writing ./_site/recipes/simple-pita-bread.html from ./_posts/2025-08-30-simple-pita-bread.md (liquid)
+[11ty] Writing ./_site/recipes/instant-pot-corned-beef-vegetables.html from ./_posts/2025-03-22-instant-pot-corned-beef-vegetables.md (liquid)
+[11ty] Writing ./_site/recipes/classic-brownies.html from ./_posts/2022-09-27-classic-brownies.md (liquid)
+[11ty] Writing ./_site/recipes/greek-salad.html from ./_posts/2025-07-24-greek-salad.md (liquid)
+[11ty] Writing ./_site/recipes/toad-in-the-hole.html from ./_posts/2025-03-29-toad-in-the-hole.md (liquid)
+[11ty] Writing ./_site/recipes/esquites.html from ./_posts/2023-12-23-esquites.md (liquid)
+[11ty] Writing ./_site/recipes/quick-buffalo-chicken-pizza.html from ./_posts/2025-08-25-quick-buffalo-chicken-pizza.md (liquid)
+[11ty] Writing ./_site/recipes/curried-pumpkin-soup.html from ./_posts/2024-10-30-curried-pumpkin-soup.md (liquid)
+[11ty] Writing ./_site/recipes/yellow-cake-mix.html from ./_posts/2025-12-13-yellow-cake-mix.md (liquid)
+[11ty] Writing ./_site/recipes/apple-raspberry-crisp.html from ./_posts/2025-07-07-apple-raspberry-crisp.md (liquid)
+[11ty] Writing ./_site/recipes/simple-french-toast-casserole.html from ./_posts/2025-12-22-simple-french-toast-casserole.md (liquid)
+[11ty] Writing ./_site/recipes/horchata.html from ./_posts/2025-12-23-horchata.md (liquid)
+[11ty] Writing ./_site/recipes/cheap-lazy-banh-mi.html from ./_posts/2025-08-16-cheap-lazy-banh-mi.md (liquid)
+[11ty] Writing ./_site/recipes/lazy-po-boys.html from ./_posts/2025-03-07-lazy-po-boys.md (liquid)
+[11ty] Writing ./_site/recipes/deviled-egg-dip.html from ./_posts/2025-12-23-deviled-egg-dip.md (liquid)
+[11ty] Writing ./_site/recipes/lemon-sheet-cake.html from ./_posts/2025-05-10-lemon-sheet-cake.md (liquid)
+[11ty] Writing ./_site/recipes/baked-french-toast.html from ./_posts/2025-06-30-baked-french-toast.md (liquid)
+[11ty] Writing ./_site/recipes/tres-leches-cake.html from ./_posts/2025-12-23-tres-leches-cake.md (liquid)
+[11ty] Writing ./_site/recipes/individual-peanut-butter-cup.html from ./_posts/2025-09-23-individual-peanut-butter-cup.md (liquid)
+[11ty] Writing ./_site/recipes/caramel-apple-monkey-bread.html from ./_posts/2025-12-23-caramel-apple-monkey-bread.md (liquid)
+[11ty] Writing ./_site/recipes/air-fryer-doughnuts.html from ./_posts/2024-04-04-air-fryer-doughnuts.md (liquid)
+[11ty] Writing ./_site/recipes/bang-bang-chicken-nuggets.html from ./_posts/2025-08-15-bang-bang-chicken-nuggets.md (liquid)
+[11ty] Writing ./_site/recipes/instant-pot-dulce-de-leche.html from ./_posts/2025-12-20-instant-pot-dulce-de-leche.md (liquid)
+[11ty] Writing ./_site/recipes/mini-raspberry-pizza.html from ./_posts/2025-07-21-mini-raspberry-pizza.md (liquid)
+[11ty] Writing ./_site/recipes/coleslaw.html from ./_posts/2026-01-10-coleslaw.md (liquid)
+[11ty] Writing ./_site/recipes/saag-paneer.html from ./_posts/2026-01-31-saag-paneer.md (liquid)
+[11ty] Writing ./_site/recipes/individual-peanut-butter-cereal-treat.html from ./_posts/2025-12-06-individual-peanut-butter-cereal-treat.md (liquid)
+[11ty] Writing ./_site/recipes/yogurt-pizza-dough.html from ./_posts/2025-10-17-yogurt-pizza-dough.md (liquid)
+[11ty] Writing ./_site/recipes/breakfast-enchiladas.html from ./_posts/2025-12-27-breakfast-enchiladas.md (liquid)
+[11ty] Writing ./_site/recipes/eggs-benedict-casserole.html from ./_posts/2025-12-28-eggs-benedict-casserole.md (liquid)
+[11ty] Writing ./_site/recipes/korean-fried-rice.html from ./_posts/2026-03-18-korean-fried-rice.md (liquid)
+[11ty] Writing ./_site/recipes/no-knead-rolls.html from ./_posts/2026-02-02-no-knead-rolls.md (liquid)
+[11ty] Writing ./_site/recipes/quesabirria-tacos.html from ./_posts/2025-12-26-quesabirria-tacos.md (liquid)
+[11ty] Writing ./_site/categories/appetizer/index.html from ./categories.liquid
+[11ty] Writing ./_site/index.html from ./index.liquid
+[11ty] Writing ./_site/categories/asian/index.html from ./categories.liquid
+[11ty] Writing ./_site/categories/barbecue/index.html from ./categories.liquid
+[11ty] Writing ./_site/categories/bread/index.html from ./categories.liquid
+[11ty] Writing ./_site/recipes/2/index.html from ./index.liquid
+[11ty] Writing ./_site/categories/breakfast/index.html from ./categories.liquid
+[11ty] Writing ./_site/categories/british/index.html from ./categories.liquid
+[11ty] Writing ./_site/recipes/3/index.html from ./index.liquid
+[11ty] Writing ./_site/categories/cajun/index.html from ./categories.liquid
+[11ty] Writing ./_site/categories/carnival/index.html from ./categories.liquid
+[11ty] Writing ./_site/recipes/4/index.html from ./index.liquid
+[11ty] Writing ./_site/archives/index.html from ./archives.md (liquid)
+[11ty] Writing ./_site/recipes/5/index.html from ./index.liquid
+[11ty] Writing ./_site/categories/dessert/index.html from ./categories.liquid
+[11ty] Writing ./_site/recipes/6/index.html from ./index.liquid
+[11ty] Writing ./_site/categories/diet/index.html from ./categories.liquid
+[11ty] Writing ./_site/categories/drink/index.html from ./categories.liquid
+[11ty] Writing ./_site/recipes/7/index.html from ./index.liquid
+[11ty] Writing ./_site/categories/indian/index.html from ./categories.liquid
+[11ty] Writing ./_site/categories/irish/index.html from ./categories.liquid
+[11ty] Writing ./_site/categories/italian/index.html from ./categories.liquid
+[11ty] Writing ./_site/categories/korean/index.html from ./categories.liquid
+[11ty] Writing ./_site/categories/mediterranean/index.html from ./categories.liquid
+[11ty] Writing ./_site/categories/mexican/index.html from ./categories.liquid
+[11ty] Writing ./_site/categories/pasta/index.html from ./categories.liquid
+[11ty] Writing ./_site/categories/pizza/index.html from ./categories.liquid
+[11ty] Writing ./_site/categories/sandwich/index.html from ./categories.liquid
+[11ty] Writing ./_site/categories/sides/index.html from ./categories.liquid
+[11ty] Writing ./_site/categories/soup/index.html from ./categories.liquid
+[11ty] Copied 1 Wrote 172 files in 0.63 seconds (v3.1.5)
