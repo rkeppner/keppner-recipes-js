@@ -77,19 +77,29 @@ export default function(eleventyConfig) {
     });
 
     if (!matchedPost?.url) {
-      throw new Error(`post_url shortcode: post not found for slug "${requestedSlug}"`);
+      return `#post-not-found-${requestedSlug}`;
     }
 
     return matchedPost.url;
   });
 
+  eleventyConfig.addCollection("posts", function(collectionApi) {
+    return collectionApi.getFilteredByGlob("_posts/*.md")
+      .sort((a, b) => b.date - a.date);
+  });
+
   // Watch Sass directory for changes
   eleventyConfig.addWatchTarget("_sass/");
+
+  // Passthrough copy robots.txt
+  eleventyConfig.addPassthroughCopy("robots.txt");
 
   return {
     dir: {
       input: ".",
-      output: "_site"
+      output: "_site",
+      layouts: "_layouts",
+      includes: "_includes"
     },
     templateFormats: ["liquid", "md", "html"],
     htmlTemplateEngine: "liquid",
