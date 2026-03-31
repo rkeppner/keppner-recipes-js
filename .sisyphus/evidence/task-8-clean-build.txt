@@ -1,0 +1,5 @@
+Eleventy build output:
+[11ty] Writing ./_site/recipes/cheap-chocolate-blender-shake.html from ./_posts/2017-02-17-cheap-chocolate-blender-shake.md (liquid)
+[11ty] Writing ./_site/recipes/chicken-shawarma-israeli-salad.html from ./_posts/2017-09-09-chicken-shawarma-israeli-salad.md (liquid)
+[11ty] Copied 1 Wrote 140 files in 0.50 seconds (v3.1.5)
+Exit code: 0

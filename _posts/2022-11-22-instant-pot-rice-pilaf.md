@@ -7,7 +7,7 @@ categories:
 permalink: /recipes/instant-pot-rice-pilaf.html
 ---
 
-I needed a side dish to go with [pork chops]({% post_url 2022-11-21-oven-fried-pork-chops %}), and I was unwilling to boil and mash potatoes. Instead I put together something akin to the Rice-a-Roni my mother used to serve.
+I needed a side dish to go with [pork chops]({% post_url "2022-11-21-oven-fried-pork-chops" %}), and I was unwilling to boil and mash potatoes. Instead I put together something akin to the Rice-a-Roni my mother used to serve.
 
 ### Ingredients
 

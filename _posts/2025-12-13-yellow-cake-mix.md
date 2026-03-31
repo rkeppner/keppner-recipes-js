@@ -7,7 +7,7 @@ categories: Dessert
 permalink: /recipes/yellow-cake-mix.html
 ---
 
-I got tired of having to buy a boxed yellow cake mix to make my [Pumpkin Pie Dump Cake]({% post_url 2022-03-19-pumpkin-pie-dump-cake %}), so I came up with something I can mix from scratch. And it gets rid of that weird smell that boxed cake mixes have.
+I got tired of having to buy a boxed yellow cake mix to make my [Pumpkin Pie Dump Cake]({% post_url "2022-03-19-pumpkin-pie-dump-cake" %}), so I came up with something I can mix from scratch. And it gets rid of that weird smell that boxed cake mixes have.
 
 ### Ingredients
 

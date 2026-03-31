@@ -7,7 +7,7 @@ categories: Mexican
 permalink: /recipes/baked-spanish-rice.html
 ---
 
-I’ve been making [Spanish Rice in the Instant Pot]({% post_url 2019-12-26-spanish-rice %}) for a few years, but I liked how easy the [Oven Fried Rice]({% post_url 2022-02-24-oven-fried-rice %}) was to make, so I modified this to use the same technique.
+I’ve been making [Spanish Rice in the Instant Pot]({% post_url "2019-12-26-spanish-rice" %}) for a few years, but I liked how easy the [Oven Fried Rice]({% post_url "2022-02-24-oven-fried-rice" %}) was to make, so I modified this to use the same technique.
 
 ### Ingredients
 

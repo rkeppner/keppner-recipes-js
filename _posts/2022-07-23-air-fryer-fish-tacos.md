@@ -7,7 +7,7 @@ categories: Mexican Diet
 permalink: /recipes/air-fryer-fish-tacos.html
 ---
 
-With the success of my [Chicken Katsu recipe]({% post_url 2022-06-20-air-fryer-chicken-katsu %}), I thought I’d give fish tacos a try. I love them, but the nearest place to get what I like is 45 minutes away from home, and deep fried fish isn’t ideal for my diet anyway. Luckily, these turned out fantastic!
+With the success of my [Chicken Katsu recipe]({% post_url "2022-06-20-air-fryer-chicken-katsu" %}), I thought I’d give fish tacos a try. I love them, but the nearest place to get what I like is 45 minutes away from home, and deep fried fish isn’t ideal for my diet anyway. Luckily, these turned out fantastic!
 
 ### Ingredients
 

@@ -7,7 +7,7 @@ categories: Cajun
 permalink: /recipes/instant-pot-jambalaya.html
 ---
 
-I've made Jambalaya for New Year for 10 or 15 years. Red beans and rice is much more traditional, but this is much more compelling. Here is my current incarnation, hurried along with the pressure cooker. It pairs great with [collard greens]({% post_url 2020-01-17-instant-pot-collard-greens %}) (though I'm one of the few who actually eats them).
+I've made Jambalaya for New Year for 10 or 15 years. Red beans and rice is much more traditional, but this is much more compelling. Here is my current incarnation, hurried along with the pressure cooker. It pairs great with [collard greens]({% post_url "2020-01-17-instant-pot-collard-greens" %}) (though I'm one of the few who actually eats them).
 
 ### Ingredients
 

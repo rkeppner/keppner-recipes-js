@@ -7,9 +7,9 @@ categories: Dessert
 permalink: /recipes/single-serving-brownie.html
 ---
 
-After finding that I could make myself [carrot cake]({% post_url 2022-11-10-single-serving-carrot-cake %}) in 15 minutes, I decided I needed to do the same for a brownie. Dessert for one is awesome! Just double it if your significant other can have some, too.
+After finding that I could make myself [carrot cake]({% post_url "2022-11-10-single-serving-carrot-cake" %}) in 15 minutes, I decided I needed to do the same for a brownie. Dessert for one is awesome! Just double it if your significant other can have some, too.
 
-This isn’t nearly as good as [my regular brownies]({% post_url 2022-09-27-classic-brownies %}), but it’s a much better option for a quick chocolate fix, especially with a scoop of ice cream.
+This isn’t nearly as good as [my regular brownies]({% post_url "2022-09-27-classic-brownies" %}), but it’s a much better option for a quick chocolate fix, especially with a scoop of ice cream.
 
 ### Ingredients
 

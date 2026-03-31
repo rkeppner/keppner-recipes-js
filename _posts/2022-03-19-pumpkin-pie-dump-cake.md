@@ -24,7 +24,7 @@ I ran into this at a Halloween pot luck and loved it so much I practically deman
 
 #### Cake Topping
 
-- 1 boxed yellow cake mix ([or substitute]({% post_url 2025-12-13-yellow-cake-mix %}))
+- 1 boxed yellow cake mix ([or substitute]({% post_url "2025-12-13-yellow-cake-mix" %}))
 - 1 cup (2 sticks) margarine, frozen
 - 1 large package whipped topping
 

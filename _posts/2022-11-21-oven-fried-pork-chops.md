@@ -25,4 +25,4 @@ Last week I bought some large packages of pork chops at a crazy cheap price, and
 2. Whisk milk into beaten eggs.
 3. Coat all sides of chops with flour. Dip chops in egg wash. Generously coat chops in panko.
 6. Arrange chops on buttered baking sheet. Bake for 10 minutes. Flip chops, and cook until internal temperature reaches 145ºF (about 10 minutes more).
-8. Allow chops to rest for a few minutes. Serve warm with [rice pilaf]({% post_url 2022-11-22-instant-pot-rice-pilaf %}).
+8. Allow chops to rest for a few minutes. Serve warm with [rice pilaf]({% post_url "2022-11-22-instant-pot-rice-pilaf" %}).

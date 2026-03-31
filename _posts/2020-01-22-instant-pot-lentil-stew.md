@@ -7,7 +7,7 @@ categories: Mediterranean
 permalink: /recipes/instant-pot-lentil-stew.html
 ---
 
-I originally put this together for a [Christmas in Bethlehem dinner]({% post_url 2019-12-25-christmas-in-bethlehem-dinner %}), but it turned out well enough that I thought I'd better record the recipe, if only in case we make the Christmas Eve dinner thing a tradition.
+I originally put this together for a [Christmas in Bethlehem dinner]({% post_url "2019-12-25-christmas-in-bethlehem-dinner" %}), but it turned out well enough that I thought I'd better record the recipe, if only in case we make the Christmas Eve dinner thing a tradition.
 
 ### Ingredients
 

@@ -7,9 +7,9 @@ categories: Carnival Dessert
 permalink: /recipes/air-fried-fair-foods.html
 ---
 
-As I’ve stated before, with the exception of [Elephant Ears]({% post_url 2021-09-17-elephant-ears %}), I _almost never_ deep fat fry anything at home. But this year as fall rolled around and I started craving foods from the state fair, I decided I needed to come up with some alternatives. There is no way I’m driving for an hour, paying to get in, then standing in line and paying what they command for abberant food experiments. I no longer have that kind of energy or patience.
+As I’ve stated before, with the exception of [Elephant Ears]({% post_url "2021-09-17-elephant-ears" %}), I _almost never_ deep fat fry anything at home. But this year as fall rolled around and I started craving foods from the state fair, I decided I needed to come up with some alternatives. There is no way I’m driving for an hour, paying to get in, then standing in line and paying what they command for abberant food experiments. I no longer have that kind of energy or patience.
 
-The [air fryer donuts]({% post_url 2024-04-04-air-fryer-doughnuts %}) turned out well enough that I used that as inpiration for more concontions you can only find at the fair, some of which I’ve never even tried before. In short, if you can batter it and fry it, you can instead wrap it in crescent roll dough and air fry it. It’s not quite the same, of course, but scratches the itch without the travel.
+The [air fryer donuts]({% post_url "2024-04-04-air-fryer-doughnuts" %}) turned out well enough that I used that as inpiration for more concontions you can only find at the fair, some of which I’ve never even tried before. In short, if you can batter it and fry it, you can instead wrap it in crescent roll dough and air fry it. It’s not quite the same, of course, but scratches the itch without the travel.
 
 ### Ingredients
 

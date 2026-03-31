@@ -7,7 +7,7 @@ categories: Indian
 permalink: /recipes/vegetable-korma.html
 ---
 
-Another new addition to our menu, it's one of the few ways that I still like to eat a decent amount of vegetables. We frequently have it with [Jeera Rice]({% post_url 2020-01-30-instant-pot-jeera-rice %}) and [Kheema Matar]({% post_url 2021-08-24-kheema-matar %}).
+Another new addition to our menu, it's one of the few ways that I still like to eat a decent amount of vegetables. We frequently have it with [Jeera Rice]({% post_url "2020-01-30-instant-pot-jeera-rice" %}) and [Kheema Matar]({% post_url "2021-08-24-kheema-matar" %}).
 
 ### Ingredients
 

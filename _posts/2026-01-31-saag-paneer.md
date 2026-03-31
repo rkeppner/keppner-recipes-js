@@ -7,7 +7,7 @@ categories: Indian
 permalink: /recipes/saag-paneer.html
 ---
 
-This is one of the last Indian dishes I haven’t regularly made at home, though it’s my go-to order at the local Indian restaurant. Time to master it! Like [Butter Chicken]({% post_url 2025-06-29-butter-chicken-from-rotisserie %}), it pairs best with [Jeera Rice]({% post_url 2020-01-30-instant-pot-jeera-rice %}) and/or naan.
+This is one of the last Indian dishes I haven’t regularly made at home, though it’s my go-to order at the local Indian restaurant. Time to master it! Like [Butter Chicken]({% post_url "2025-06-29-butter-chicken-from-rotisserie" %}), it pairs best with [Jeera Rice]({% post_url "2020-01-30-instant-pot-jeera-rice" %}) and/or naan.
 
 ### Paneer Ingredients
 

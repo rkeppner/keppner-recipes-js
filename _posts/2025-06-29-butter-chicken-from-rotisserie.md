@@ -9,7 +9,7 @@ permalink: /recipes/butter-chicken-from-rotisserie.html
 
 The older I get the lazier I get. I used to make butter chicken from scratch, but now I just buy a rotisserie chicken and use the meat from that. It works great, and takes a lot less time. But this is still a somewhat involved process requiring a fair number of specialty ingredients.
 
-I still pair it with [Jeera Rice]({% post_url 2020-01-30-instant-pot-jeera-rice %}), which I keep frozen in 1 cup portions. In fact, frequently I don’t even add the chicken to the sauce; I freeze it by itself, then add the chicken when I reheat it.
+I still pair it with [Jeera Rice]({% post_url "2020-01-30-instant-pot-jeera-rice" %}), which I keep frozen in 1 cup portions. In fact, frequently I don’t even add the chicken to the sauce; I freeze it by itself, then add the chicken when I reheat it.
 
 ### Ingredients
 

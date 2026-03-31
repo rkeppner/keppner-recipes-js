@@ -7,7 +7,7 @@ categories: Mediterranean
 permalink: /recipes/tabouli-salad.html
 ---
 
-Yet another something I dug up for our [Christmas in Bethlehem dinner]({% post_url 2019-12-25-christmas-in-bethlehem-dinner %}). This was probably the most exotic thing I served, and I may have been the only one who enjoyed it. That being said, a little goes a long way.
+Yet another something I dug up for our [Christmas in Bethlehem dinner]({% post_url "2019-12-25-christmas-in-bethlehem-dinner" %}). This was probably the most exotic thing I served, and I may have been the only one who enjoyed it. That being said, a little goes a long way.
 
 ### Ingredients
 

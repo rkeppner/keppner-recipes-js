@@ -9,7 +9,7 @@ permalink: /recipes/greek-salad.html
 
 I used to frequently order a Greek salad topped with gyro meat or shawarma at a hole-in-the wall restaurant in the Phoenix East Valley, but there are no Greek restaurants within an hour of where we live now. So, I have to make my own. The only thing I actually had to figure out was the dressing, which is a simple vinaigrette. Also, bumping into the idea of pita croutons was a happy accident. Everything else is just assembly.
 
-To turn this into a full meal, I just throw meat in: either sliced [chicken shawarma]({% post_url 2017-09-09-chicken-shawarma-israeli-salad %}) or fried gyro meat slices that I can buy at the local WinCo Foods.
+To turn this into a full meal, I just throw meat in: either sliced [chicken shawarma]({% post_url "2017-09-09-chicken-shawarma-israeli-salad" %}) or fried gyro meat slices that I can buy at the local WinCo Foods.
 
 ### Ingredients
 

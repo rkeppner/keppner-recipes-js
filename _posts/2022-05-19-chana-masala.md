@@ -7,7 +7,7 @@ categories: Indian Diet
 permalink: /recipes/chana-masala.html
 ---
 
-A vegetarian legume curry that pairs wonderfully with [Jeera Rice]({% post_url 2020-01-30-instant-pot-jeera-rice %}).
+A vegetarian legume curry that pairs wonderfully with [Jeera Rice]({% post_url "2020-01-30-instant-pot-jeera-rice" %}).
 
 ### Ingredients
 

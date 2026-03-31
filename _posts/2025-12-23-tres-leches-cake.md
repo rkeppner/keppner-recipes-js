@@ -27,7 +27,7 @@ Highly influenced by our years living in the Phoenix East Valley, our Christmas 
 
 #### Topping
 
-- 1 cup [dulce de leche]({% post_url 2025-12-20-instant-pot-dulce-de-leche %}), chilled (optional)
+- 1 cup [dulce de leche]({% post_url "2025-12-20-instant-pot-dulce-de-leche" %}), chilled (optional)
 - 2 cups whipped cream or whipped topping
 - Ground cinnamon, for garnish (optional)
 

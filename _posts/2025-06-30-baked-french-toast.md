@@ -7,7 +7,7 @@ categories: Breakfast
 permalink: /recipes/baked-french-toast.html
 ---
 
-When I find that the kids haven’t been eating the sandwich bread, I make a batch of French Toast to use it up. Though, if I have too many heels in the mix, [French Toast Casserole]({% post_url 2025-01-12-french-toast-casserole %}) works better to prevent picky eaters from avoiding them.
+When I find that the kids haven’t been eating the sandwich bread, I make a batch of French Toast to use it up. Though, if I have too many heels in the mix, [French Toast Casserole]({% post_url "2025-01-12-french-toast-casserole" %}) works better to prevent picky eaters from avoiding them.
 
 ### Ingredients
 

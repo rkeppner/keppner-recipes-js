@@ -30,7 +30,7 @@ I’m not sure I’d ever made a real gumbo before, but when I realized it was M
 - Louisiana hot sauce
 - 2 cups frozen okra
 - 2 scallions, sliced thinly
-- [Steamed white rice]({% post_url 2024-01-14-instant-pot-rice %}), for serving
+- [Steamed white rice]({% post_url "2024-01-14-instant-pot-rice" %}), for serving
 
 ### Directions
 

@@ -7,7 +7,7 @@ categories: Italian
 permalink: /recipes/bulk-breakfast-sausage-to-italian.html
 ---
 
-On the day of this writing, I paid $2.89 for a 1 pound chub of (terribly fatty) breakfast sausage (which we already use in spaghetti sauce), while the price of bulk Italian sausage was nearly $6 per pound. This isn’t as good quality as the Italian sausage, but it’s a lot cheaper and is a reasonable substitute in my [Instant Pot Zuppa Toscana]({% post_url 2020-04-23-instant-pot-zuppa-toscana %}).
+On the day of this writing, I paid $2.89 for a 1 pound chub of (terribly fatty) breakfast sausage (which we already use in spaghetti sauce), while the price of bulk Italian sausage was nearly $6 per pound. This isn’t as good quality as the Italian sausage, but it’s a lot cheaper and is a reasonable substitute in my [Instant Pot Zuppa Toscana]({% post_url "2020-04-23-instant-pot-zuppa-toscana" %}).
 
 ### Ingredients
 

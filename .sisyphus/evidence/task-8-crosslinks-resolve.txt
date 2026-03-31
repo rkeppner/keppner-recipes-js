@@ -1,0 +1,3 @@
+Cross-reference link verification:
+    <p>This is a new addition to our menu. Rachel and I love it, while the kids won't touch it. It comes very close to what we're used to in an Indian restaurant, while still being simple and cheap. It would probably be even better with ground lamb, and I'm sure it would work great with ground turkey as well. We like to pair it with <a href="/recipes/instant-pot-jeera-rice.html">Jeera Rice</a> and <a href="/recipes/vegetable-korma.html">Vegetable Korma</a>.</p>
+<li>2 pounds mild Italian sausage, without casing (or use <a href="/recipes/bulk-breakfast-sausage-to-italian.html">my substitute</a>)</li>

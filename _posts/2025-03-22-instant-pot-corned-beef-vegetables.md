@@ -7,7 +7,7 @@ categories: Irish
 permalink: /recipes/instant-pot-corned-beef-vegetables.html
 ---
 
-Each year we follow our longstanding tradition of making corned beef and cabbage for St. Patrick’s Day, but I need to record just how I do that before I forget (again). This covers all the bases, plus a few extras, and it makes a lot of leftovers. But it does take a large Instant Pot (8 quart). All you need to add is [Irish soda bread]({% post_url 2021-03-17-irish-soda-bread %}) and Kerrygold Irish butter to complete your feast.
+Each year we follow our longstanding tradition of making corned beef and cabbage for St. Patrick’s Day, but I need to record just how I do that before I forget (again). This covers all the bases, plus a few extras, and it makes a lot of leftovers. But it does take a large Instant Pot (8 quart). All you need to add is [Irish soda bread]({% post_url "2021-03-17-irish-soda-bread" %}) and Kerrygold Irish butter to complete your feast.
 
 ### Ingredients
 

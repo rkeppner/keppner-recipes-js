@@ -7,7 +7,7 @@ categories:
 permalink: /recipes/chewy-flatbread.html
 ---
 
-When I began making my own gyros, I decided that I couldn’t put up with the store bought pitas for them anymore. After trying a few different recipes online, this is the one I landed on. This, along with [tzatziki sauce]({% post_url 2022-03-14-tzatziki %}) and store-bought gyros slices makes a really good combination.
+When I began making my own gyros, I decided that I couldn’t put up with the store bought pitas for them anymore. After trying a few different recipes online, this is the one I landed on. This, along with [tzatziki sauce]({% post_url "2022-03-14-tzatziki" %}) and store-bought gyros slices makes a really good combination.
 
 ### Ingredients
 

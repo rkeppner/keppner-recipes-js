@@ -7,7 +7,7 @@ categories: Dessert
 permalink: /recipes/apple-raspberry-crisp.html
 ---
 
-We have some raspberry canes that produce prodigiously each summer. In addition to what we eat fresh and freeze for later, I frequently use them in [cobbler]({% post_url 2022-07-25-simple-fruit-cobbler %}). But when I have a few apples that need to be used (usually because they’re bruised and being avoided by the kids), I can throw in some fresh raspberries and whip this up. It pairs great with vanilla ice cream as a summer treat.
+We have some raspberry canes that produce prodigiously each summer. In addition to what we eat fresh and freeze for later, I frequently use them in [cobbler]({% post_url "2022-07-25-simple-fruit-cobbler" %}). But when I have a few apples that need to be used (usually because they’re bruised and being avoided by the kids), I can throw in some fresh raspberries and whip this up. It pairs great with vanilla ice cream as a summer treat.
 
 ### Ingredients
 

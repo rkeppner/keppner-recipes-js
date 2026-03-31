@@ -7,7 +7,7 @@ categories: Carnival Dessert
 permalink: /recipes/basic-crepes.html
 ---
 
-This is a cut down batch that makes only 2 crepes, which is how many I typically want. I typically fill them with [cream cheese filling]({% post_url 2021-09-12-cream-cheese-crepe-filling %}) and fresh berries.
+This is a cut down batch that makes only 2 crepes, which is how many I typically want. I typically fill them with [cream cheese filling]({% post_url "2021-09-12-cream-cheese-crepe-filling" %}) and fresh berries.
 
 ### Ingredients
 

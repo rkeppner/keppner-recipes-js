@@ -7,7 +7,7 @@ categories: Indian
 permalink: /recipes/kheema-matar.html
 ---
 
-This is a new addition to our menu. Rachel and I love it, while the kids won't touch it. It comes very close to what we're used to in an Indian restaurant, while still being simple and cheap. It would probably be even better with ground lamb, and I'm sure it would work great with ground turkey as well. We like to pair it with [Jeera Rice]({% post_url 2020-01-30-instant-pot-jeera-rice %}) and [Vegetable Korma]({% post_url 2021-08-25-vegetable-korma %}).
+This is a new addition to our menu. Rachel and I love it, while the kids won't touch it. It comes very close to what we're used to in an Indian restaurant, while still being simple and cheap. It would probably be even better with ground lamb, and I'm sure it would work great with ground turkey as well. We like to pair it with [Jeera Rice]({% post_url "2020-01-30-instant-pot-jeera-rice" %}) and [Vegetable Korma]({% post_url "2021-08-25-vegetable-korma" %}).
 
 ### Ingredients
 

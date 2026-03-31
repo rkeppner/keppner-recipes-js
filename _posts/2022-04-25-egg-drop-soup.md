@@ -7,7 +7,7 @@ categories: Asian Soup Diet
 permalink: /recipes/egg-drop-soup.html
 ---
 
-A great, easy accompaniment to turn [Fried Rice]({% post_url 2022-02-24-oven-fried-rice %}) and [Lo Mein]({% post_url 2021-07-21-lo-mein %}) into a full meal.
+A great, easy accompaniment to turn [Fried Rice]({% post_url "2022-02-24-oven-fried-rice" %}) and [Lo Mein]({% post_url "2021-07-21-lo-mein" %}) into a full meal.
 
 ### Ingredients
 
@@ -15,7 +15,7 @@ A great, easy accompaniment to turn [Fried Rice]({% post_url 2022-02-24-oven-fri
 - 1 tablespoon soy sauce
 - 1 tablespoon sesame oil
 - 1 teaspoon fresh ginger, grated (or 1/4 teaspoon ground ginger)
-- pinch [Chinese Five Spice Powder]({% post_url 2022-02-23-chinese-five-spice-powder %})
+- pinch [Chinese Five Spice Powder]({% post_url "2022-02-23-chinese-five-spice-powder" %})
 - 1/4 cup cooked chicken, diced (optional)
 - 1/4 cup frozen corn kernels (optional)
 - 1/4 cup frozen peas (optional)

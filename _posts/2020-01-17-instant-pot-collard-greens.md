@@ -7,7 +7,7 @@ categories: Cajun
 permalink: /recipes/instant-pot-collard-greens.html
 ---
 
-For some strange reason, I actually _like_ greens, and when I was looking for something to go with our New Year [jambalaya]({% post_url 2020-01-17-instant-pot-jambalaya %}), it had to be collard greens. The key to good, Southern-style greens is lots and lots of fatty pork, and we all know _bacon_ is the world's best fatty pork.
+For some strange reason, I actually _like_ greens, and when I was looking for something to go with our New Year [jambalaya]({% post_url "2020-01-17-instant-pot-jambalaya" %}), it had to be collard greens. The key to good, Southern-style greens is lots and lots of fatty pork, and we all know _bacon_ is the world's best fatty pork.
 
 ### Ingredients
 

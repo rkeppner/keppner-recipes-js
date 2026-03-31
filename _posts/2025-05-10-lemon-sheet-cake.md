@@ -7,7 +7,7 @@ categories: Dessert
 permalink: /recipes/lemon-sheet-cake.html
 ---
 
-It’s common for us to make this in addition to [Texas sheet cake]({%  post_url 2025-05-09-texas-sheet-cake %}) for gatherings, to have an alternative to chocolate. It also pairs well with vanilla ice cream.
+It’s common for us to make this in addition to [Texas sheet cake]({% post_url "2025-05-09-texas-sheet-cake" %}) for gatherings, to have an alternative to chocolate. It also pairs well with vanilla ice cream.
 
 ### Ingredients
 

@@ -7,7 +7,7 @@ categories: Dessert
 permalink: /recipes/classic-brownies.html
 ---
 
-Although I have [another brownie recipe]({% post_url 2021-07-17-condensed-milk-and-browned-butter-brownies %}) that I really prefer, the effort required means that I almost never make them. _This_ is the recipe that we actually use on a regular basis.
+Although I have [another brownie recipe]({% post_url "2021-07-17-condensed-milk-and-browned-butter-brownies" %}) that I really prefer, the effort required means that I almost never make them. _This_ is the recipe that we actually use on a regular basis.
 
 ### Ingredients
 

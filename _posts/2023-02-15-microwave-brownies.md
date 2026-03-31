@@ -7,7 +7,7 @@ categories: Dessert
 permalink: /recipes/microwave-brownies.html
 ---
 
-I know, I know; yet another brownie recipe. But I wasn’t really happy with my [single serving brownie recipe]({% post_url 2023-01-14-single-serving-brownie %}), so I found something better. This one works quite well in the microwave, but is even better in an air fryer (preferred) or conventional oven.
+I know, I know; yet another brownie recipe. But I wasn’t really happy with my [single serving brownie recipe]({% post_url "2023-01-14-single-serving-brownie" %}), so I found something better. This one works quite well in the microwave, but is even better in an air fryer (preferred) or conventional oven.
 
 ### Ingredients
 

@@ -36,4 +36,4 @@ I was feeling creative this weekend. I wanted chicken pizza, but I also wanted G
 6. Lightly brush pitas with olive oil. Top with mozzarella, onions and peppers, chicken souvlaki, olives, feta, and tomatoes.
 7. Bake on pizza stone until lightly browned, about 20 minutes.
 
-To round out the meal, serve with crudités and [hummus]({% post_url 2007-06-02-basic-hummus %}).
+To round out the meal, serve with crudités and [hummus]({% post_url "2007-06-02-basic-hummus" %}).

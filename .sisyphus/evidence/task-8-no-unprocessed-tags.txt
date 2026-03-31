@@ -1,0 +1,3 @@
+      31
+post_url in HTML body (not meta description):        0
+Note: 31 occurrences are in <meta name=description> tags from raw excerpt text - pre-existing issue, not in rendered body content

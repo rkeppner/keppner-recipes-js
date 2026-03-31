@@ -32,4 +32,4 @@ My wife and I _love_ Indian food, but most of the recipes I've tried at home hav
 2. Add onions, garlic, ginger, and spices to butter. Stir frequently until onions are soft.
 3. Add chicken, mushrooms, and tomato sauce. Pressure cook on high for 7 minutes. When finished, turn off and perform a quick release.
 4. Stir in heavy cream. Set to _sauté_ again and simmer for 2 minutes to thicken sauce.
-5. Sprinkle with cilantro and scallions. Serve with basmati rice or [Jeera Rice]({% post_url 2020-01-30-instant-pot-jeera-rice %}).
+5. Sprinkle with cilantro and scallions. Serve with basmati rice or [Jeera Rice]({% post_url "2020-01-30-instant-pot-jeera-rice" %}).

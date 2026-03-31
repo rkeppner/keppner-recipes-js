@@ -7,7 +7,7 @@ categories: Breakfast
 permalink: /recipes/simple-french-toast-casserole.html
 ---
 
-I have another, fancier version of [French Toast Casserole]({% post_url 2025-01-12-french-toast-casserole %}) that I make occasionally, but this is a simpler, cheaper version that we also like.
+I have another, fancier version of [French Toast Casserole]({% post_url "2025-01-12-french-toast-casserole" %}) that I make occasionally, but this is a simpler, cheaper version that we also like.
 
 ### Ingredients
 

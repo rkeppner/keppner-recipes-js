@@ -7,7 +7,7 @@ categories: Cajun Sandwich
 permalink: /recipes/lazy-po-boys.html
 ---
 
-As Marti Gras came around again this year, I wanted something lighter than [gumbo]({% post_url 2024-02-13-chicken-sausage-gumbo %}) or [jambalaya]({%  post_url 2020-01-17-instant-pot-jambalaya %}). I used to eat oyster po’ boys in Provo, Utah (of all places), and I’d once had a shrimp po’ boy in Phoenix. So I decided to give it a shot, but it had to be simple and easy. This meets that requirement, taking less than 30 minutes start to finish. I wouldn’t call it authentic, but it tastes great. The shrimp was frozen from a bag, the condiments from store-bought, squeeze bottles, and instead of a baguette, I used steak rolls from Walmart.
+As Marti Gras came around again this year, I wanted something lighter than [gumbo]({% post_url "2024-02-13-chicken-sausage-gumbo" %}) or [jambalaya]({% post_url "2020-01-17-instant-pot-jambalaya" %}). I used to eat oyster po’ boys in Provo, Utah (of all places), and I’d once had a shrimp po’ boy in Phoenix. So I decided to give it a shot, but it had to be simple and easy. This meets that requirement, taking less than 30 minutes start to finish. I wouldn’t call it authentic, but it tastes great. The shrimp was frozen from a bag, the condiments from store-bought, squeeze bottles, and instead of a baguette, I used steak rolls from Walmart.
 
 ### Ingredients
 

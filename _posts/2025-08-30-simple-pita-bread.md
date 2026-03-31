@@ -7,7 +7,7 @@ categories: Mediterranean
 permalink: /recipes/simple-pita-bread.html
 ---
 
-I needed something simpler than my [other pita recipe]({% post_url 2022-03-14-chewy-flatbread %}) (so I would actually make it). This is that.
+I needed something simpler than my [other pita recipe]({% post_url "2022-03-14-chewy-flatbread" %}) (so I would actually make it). This is that.
 
 ### Ingredients
 
