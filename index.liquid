@@ -1,0 +1,8 @@
+---
+layout: home
+pagination:
+  data: collections.posts
+  size: 20
+  alias: page_posts
+permalink: "{% if pagination.pageNumber == 0 %}/{% else %}/recipes/{{ pagination.pageNumber | plus: 1 }}/{% endif %}"
+---
