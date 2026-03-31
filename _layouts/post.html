@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    {% if external-url %}
+      <h1 class="post-title" itemprop="name headline"><a href="{{ external-url }}">{{ title | escape }} &rarr;</a></h1>
+    {% else %}
+      <h1 class="post-title" itemprop="name headline">{{ title | escape }}</h1>
+    {% endif %}
+    <p class="post-meta"><time datetime="{{ date | date_to_xmlschema }}" itemprop="datePublished">{{ date | date: "%b %-d, %Y" }}</time>{% if author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ author }}</span></span>{% endif %}{% if categories != empty %} • <!-- category links: Task 9 -->{% endif %}</p>
+  </header>
+
+  {% if image %}
+    <div class="post-image" itemprop="articleImage">
+      <img typeof="foaf:Image" src="{{ image }}" />
+    </div>
+  {% endif %}
+
+  <div class="post-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+</article>
