@@ -3,7 +3,7 @@ layout: post
 title: 'Instant Pot Potato Salad'
 date: 2021-07-16
 image:
-categories: 'Sides'
+categories: Sides
 permalink: /recipes/instant-pot-potato-salad.html
 ---
 
