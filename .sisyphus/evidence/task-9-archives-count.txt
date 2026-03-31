@@ -1,2 +1,0 @@
-grep -c 'class="post-link"' _site/archives/index.html
-137

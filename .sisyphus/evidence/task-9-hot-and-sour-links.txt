@@ -1,7 +1,0 @@
-grep -c "/categories/" _site/recipes/hot-and-sour-soup.html
-3
-
-grep '/categories/(asian|soup|diet)/' matches in _site/recipes/hot-and-sour-soup.html:
-<a href="/categories/asian/">Asian</a>,
-<a href="/categories/soup/">Soup</a>,
-<a href="/categories/diet/">Diet</a>
