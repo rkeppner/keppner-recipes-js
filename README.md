@@ -16,7 +16,7 @@ npm install
 npm run dev
 ```
 
-The site will be available at `http://localhost:8080`.
+The site will be available at `http://localhost:8088`.
 
 ## Build
 
@@ -74,8 +74,8 @@ The site is configured for deployment on Cloudflare Pages.
 ### Initial Setup
 
 1.  Log into the [Cloudflare Dashboard](https://dash.cloudflare.com/) and navigate to **Workers & Pages**.
-2.  Click **Create application** → **Pages** → **Connect to Git**.
-3.  Select the `keppner-recipes-js` repository.
+2.  Under **Build** open **Compute** and click **Workers & Pages**, then at the bottom next to _**Looking to deploy Pages?**_ click **Get started**. Then click the **Get started** button next to _**Import an existing Git repository**_.
+3.  Select the `keppner-recipes-js` repository, then click **Begin setup**.
 4.  Configure the **Build settings**:
     *   **Framework preset**: None
     *   **Build command**: `npm run build`
