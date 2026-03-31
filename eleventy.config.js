@@ -36,6 +36,9 @@ export default function(eleventyConfig) {
   });
 
   eleventyConfig.addFilter("date_to_xmlschema", (date) => {
+    if (date === "now" || date === undefined || date === null) {
+      return new Date().toISOString();
+    }
     return new Date(date).toISOString();
   });
 
