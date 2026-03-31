@@ -1,0 +1,9 @@
+---
+pagination:
+  data: collections.categoryMap
+  size: 1
+  alias: category
+permalink: "/categories/{{ category.name | downcase }}/index.html"
+layout: category_archives
+eleventyExcludeFromCollections: true
+---

@@ -88,6 +88,29 @@ export default function(eleventyConfig) {
       .sort((a, b) => b.date - a.date);
   });
 
+  eleventyConfig.addCollection("categoryMap", function(collectionApi) {
+    const posts = collectionApi.getFilteredByGlob("_posts/*.md")
+      .sort((a, b) => b.date - a.date);
+    const byCategory = new Map();
+
+    for (const post of posts) {
+      const categories = Array.isArray(post?.data?.categories) ? post.data.categories : [];
+      for (const categoryName of categories) {
+        if (!byCategory.has(categoryName)) {
+          byCategory.set(categoryName, []);
+        }
+        byCategory.get(categoryName).push(post);
+      }
+    }
+
+    return [...byCategory.entries()]
+      .sort(([a], [b]) => a.localeCompare(b))
+      .map(([name, categoryPosts]) => ({
+        name,
+        posts: categoryPosts
+      }));
+  });
+
   // Watch Sass directory for changes
   eleventyConfig.addWatchTarget("_sass/");
 

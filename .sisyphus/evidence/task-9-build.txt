@@ -1,0 +1,3 @@
+npx @11ty/eleventy
+Result: exit 0
+Relevant output: "Copied 1 Wrote 163 files in 0.60 seconds (v3.1.5)"

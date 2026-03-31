@@ -1,0 +1,2 @@
+ls _site/categories/ | wc -l
+22

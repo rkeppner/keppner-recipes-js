@@ -9,7 +9,7 @@ layout: default
     {% else %}
       <h1 class="post-title" itemprop="name headline">{{ title | escape }}</h1>
     {% endif %}
-    <p class="post-meta"><time datetime="{{ date | date_to_xmlschema }}" itemprop="datePublished">{{ date | date: "%b %-d, %Y" }}</time>{% if author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ author }}</span></span>{% endif %}{% if categories != empty %} • <!-- category links: Task 9 -->{% endif %}</p>
+    <p class="post-meta"><time datetime="{{ date | date_to_xmlschema }}" itemprop="datePublished">{{ date | date: "%b %-d, %Y" }}</time>{% if author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ author }}</span></span>{% endif %}{% if categories != empty %} • {% include "category_links.html", categories: categories %}{% endif %}</p>
   </header>
 
   {% if image %}
