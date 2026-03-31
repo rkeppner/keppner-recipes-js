@@ -19,7 +19,8 @@ export default function(eleventyConfig) {
   // Add Sass plugin
   eleventyConfig.addPlugin(eleventySass, {
     sass: {
-      loadPaths: ["_sass"]
+      loadPaths: ["_sass"],
+      style: "expanded"
     }
   });
 

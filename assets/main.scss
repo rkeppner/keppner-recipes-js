@@ -1,0 +1,18 @@
+@charset "utf-8";
+@use 'sass:color';
+@use 'whiteglass' as *;
+
+.site-footer {
+    font-size: 12px;
+}
+
+.note {
+    margin: 1em 0;
+    padding: 1em 1em 0 1em;
+    border: 1px solid $grey-color-light;
+    font-style: italic;
+}
+
+.post-image {
+    margin-bottom: 2em;
+}
