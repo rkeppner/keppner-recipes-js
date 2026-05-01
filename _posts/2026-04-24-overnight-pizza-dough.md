@@ -11,17 +11,19 @@ This is a higher hydration pizza dough, similar to my [Lazy Man Pizza Crust]({% 
 
 ### Ingredients
 
-- 288 grams all-purpose or bread flour
+- 288 grams bread flour (or all-purpose flour)
 - 1/2 tablespoon salt
-- 7 ounces water
+- 20 grams low-fat buttermilk
+- 180 grams water
 - 1/8 teaspoon active dry yeast
 - 1/2 tablespoon honey
 - 1/2 tablespoon olive oil
+- Semolina flour, for dusting
 
 ### Directions
 
 1. Whisk flour and salt together; set aside.
-1. In a large mixing bowl, combine water, yeast, and honey. Mix until yeast and honey are dissolved.
+1. In a large mixing bowl, combine buttermilk, water, yeast, and honey. Mix until yeast and honey are completely dissolved.
 1. Add roughly half of the flour mixture to the wet ingredients, and mix with a stiff spatula until combined.
 1. Add olive oil and mix until incorporated.
 1. Add remaining flour and mix until completely combined. Cover the bowl with plastic wrap and let rest at room temperature for 30 minutes.
