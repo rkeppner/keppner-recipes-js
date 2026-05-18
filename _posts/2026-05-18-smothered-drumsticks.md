@@ -14,6 +14,7 @@ When I break down leg quarters or a whole chicken, I have drumsticks left over a
 - 8 chicken drumsticks
 - 3/4 teaspoon salt
 - 3/4 teaspoon black pepper
+- 1/2 teaspoon Herbes de Provence
 - 1/2 teaspoon granulated garlic
 - 1 teaspoon granulated onion
 - 1/2 teaspoon paprika
