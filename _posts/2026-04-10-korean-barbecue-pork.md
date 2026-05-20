@@ -3,7 +3,7 @@ layout: post
 title: 'Korean Barbecue Pork (Dwaeji Bulgogi)'
 date: 2026-04-10
 image:
-categories: Korean
+categories: Asian Korean
 permalink: /recipes/korean-barbecue-pork.html
 ---
 

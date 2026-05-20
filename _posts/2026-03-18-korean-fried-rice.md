@@ -3,7 +3,7 @@ layout: post
 title: 'Korean Fried Rice'
 date: 2026-03-18
 image:
-categories: Korean
+categories: Asian Korean
 permalink: /recipes/korean-fried-rice.html
 ---
 
