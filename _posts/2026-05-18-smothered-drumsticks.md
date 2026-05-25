@@ -28,8 +28,8 @@ When I break down leg quarters or a whole chicken, I have drumsticks left over a
 
 ### Directions
 
-1. Place drumsticks in a cold dutch oven in a single layer. Turn heat to medium high and cook until the skin is browned and crispy, turning occasionally, about 20 minutes.
-1. Sprinkle drumsticks with salt, pepper, garlic, onion, paprika, and cayenne. Toss to coat. Remove drumsticks from the pot and set aside.
-1. Add sliced onion and mushrooms to the pot and cook until softened, about 5 minutes.
+1. Remove skin from drumsticks and place in a cold dutch oven covering bottom. Turn heat to medium and cook, turning occasionally, until skin is browned and crispy and fat is rendered out. Remove skin from pot, leaving rendered fat.
+1. Add sliced onion and mushrooms to pot and cook until softened, about 5 minutes.
 1. Add cream of chicken soup, Worcestershire sauce, bouillon, and water to the pot. Stir to combine and bring to a simmer.
-1. Return drumsticks to the pot, nestling them into the sauce. Cover and simmer until the chicken is cooked through and tender, about 30 minutes. Serve over mashed potatoes or rice to soak up the delicious sauce.
+1. Mix together salt, pepper, garlic, onion, paprika, and cayenne. Sprinkle over all sides of drumsticks.
+1. Place drumsticks in pot, nestling them into sauce. Cover and simmer until the chicken is cooked through and tender, about 30 minutes. Serve over mashed potatoes or rice to soak up the delicious sauce.
