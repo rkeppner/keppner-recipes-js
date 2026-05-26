@@ -54,6 +54,8 @@ date: YYYY-MM-DD HH:MM:SS -0700
 categories: [category1, category2]
 permalink: /recipes/recipe-slug.html
 image: /images/recipe-image.jpg
+servings: 4
+calories: 350
 ---
 
 Recipe content goes here.
