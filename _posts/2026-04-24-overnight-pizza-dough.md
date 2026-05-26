@@ -5,6 +5,8 @@ date: 2026-04-24
 image:
 categories: Pizza
 permalink: /recipes/overnight-pizza-dough.html
+servings: 2
+calories: 295
 ---
 
 This is a higher hydration pizza dough, similar to my [Lazy Man Pizza Crust]({% post_url "2021-07-22-lazy-man-pizza-crust" %}), but with a more open crumb and lighter texture. It’s more trouble to work with, though; the dough is very sticky and requires practice to stretch. This recipe is enough for two personal or one smallish pizza.
