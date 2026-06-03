@@ -5,6 +5,8 @@ date: 2021-12-23
 image:
 categories:
 permalink: /recipes/swedish-meatballs.html
+servings: 8
+calories: 400
 ---
 
 The whole family loves these with mashed potatoes, even though I'm too lazy to make the meatballs from scratch.
@@ -15,7 +17,7 @@ The whole family loves these with mashed potatoes, even though I'm too lazy to m
 - 1/2 cup butter
 - 1 cup all-purpose flour
 - 3 cups beef broth or stock
-- 2 cups chicken or vegetable broth or stock
+- 2 cups chicken stock
 - 2 tablespoons soy sauce
 - 1 tablespoon Dijon mustard
 - 1 teaspoon Worcestershire sauce
