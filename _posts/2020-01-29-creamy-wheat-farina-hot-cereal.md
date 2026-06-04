@@ -22,7 +22,7 @@ I always liked _Cream of Wheat_ cereal growing up, but we didn't have it very of
 
 ### Directions
 
-1. In a largeish, microwave-safe bowl, stir salt and farina into water. Microwave on high for 2 minutes, then stir.
+1. In a large-ish, microwave-safe bowl, stir salt and farina into water. Microwave on high for 2 minutes, then stir.
 1. Continue microwaving on high, stirring every 30 seconds, until farina is thickened and cooked through, another minute or two. Remove from microwave and let stand for 2 minutes.
 1. Add butter (if using), sugar, and milk, and stir to combine thoroughly.
 1. Serve warm.
