@@ -5,6 +5,8 @@ date: 2022-07-24
 image:
 categories: Mexican
 permalink: /recipes/ranchero-sauce.html
+servings: 4
+calories: 33
 ---
 
 This Mexican take on spicy tomato sauce is perfect for serving up Huevos Rancheros (fried egg on corn tortilla with this tomato sauce) or Chile Rellenos. I may even try it for a Mexican inspired pizza.
