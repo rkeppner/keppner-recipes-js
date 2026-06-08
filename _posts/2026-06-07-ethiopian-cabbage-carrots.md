@@ -9,7 +9,7 @@ servings: 4
 calories: 200
 ---
 
-One of my last home cooking challenges is to master Ethiopian food. It has been nearly 10 years since I lived in the Phoenix area where I could get it, and I miss it terribly. So, this is the first of a number of recipes in that vein. Like most, it will not even attempt to be authentic, just to capture what I liked most about what I used to eat. This is a simple side dish of cabbage and carrots, flavored with turmeric and ginger.
+This is a simple side dish of cabbage and carrots, flavored with Ethiopian spices.
 
 ### Ingredients
 
