@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ethiopian Berbere Spice Mix'
-date: 2026-06-08
+date: 2026-06-05
 image:
 categories: Ethiopian
 permalink: /recipes/ethiopian-berbere-spice-mix.html
