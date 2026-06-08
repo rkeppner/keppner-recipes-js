@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ethiopian Cabbage and Carrots (Tikil Gomen)'
-date: 2026-04-10
+date: 2026-06-07
 image:
 categories: Ethiopian
 permalink: /recipes/ethiopian-cabbage-carrots.html
