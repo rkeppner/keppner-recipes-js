@@ -9,7 +9,7 @@ servings: 6
 calories: 380
 ---
 
-This recipe traditionally uses a whole, cut-up chicken, but I use a mix of boneless, skinless chicken thighs and breasts. I cook the whole thing in an Instant Pot for convenience, but it can also be done in a slow cooker, after the onions are caramelized. Serve it with [injera]({% post_url "2026-06-06-quick-ethiopian-flatbread-injera" %}) and [cabbage and carrots]({% post_url "2026-06-07-ethiopian-cabbage-and-carrots" %}) for a complete meal.
+This recipe traditionally uses a whole, cut-up chicken, but I use a mix of boneless, skinless chicken thighs and breasts. I cook the whole thing in an Instant Pot for convenience, but it can also be done in a slow cooker, after the onions are caramelized. Serve it with [injera]({% post_url "2026-06-06-quick-ethiopian-flatbread-injera" %}) and [cabbage and carrots]({% post_url "2026-06-07-ethiopian-cabbage-carrots" %}) for a complete meal.
 
 ### Ingredients
 
