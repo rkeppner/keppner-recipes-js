@@ -9,7 +9,7 @@ servings: 6
 calories: 112
 ---
 
-This is a complete cheat. I’m not even attempting to make real cheese, just tweak American cottage cheese to a slightly different flavor profile. But it works reasonably well on [doro wat]({% post_url "2026-06-08-ethiopian-spicy-chicken-stew-doro-wat" %}) or [awaze tibs]({% post_url "2026-06-08-ethiopian-spicy-beef-stir-fry-awaze-tibs" %}) alongside them on the [injera]({% post_url "2026-06-05-quick-ethiopian-flatbread-injera" %}).
+This is a complete cheat. I’m not even attempting to make real cheese, just tweak American cottage cheese to a slightly different flavor profile. But it works reasonably well on [doro wat]({% post_url "2026-06-08-ethiopian-spicy-chicken-stew-doro-wat" %}) and [awaze tibs]({% post_url "2026-06-08-ethiopian-spicy-beef-stir-fry-awaze-tibs" %}) or just alongside them on the [injera]({% post_url "2026-06-05-quick-ethiopian-flatbread-injera" %}).
 
 ### Ingredients
 
