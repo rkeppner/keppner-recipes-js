@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ethiopian Green Salad'
+title: 'Ethiopian Green Salad (Salata)'
 date: 2026-06-08
 image:
 categories: Ethiopian
