@@ -1,12 +1,12 @@
 ---
 layout: post
 title: 'Ethiopian Green Salad'
-date: 2026-06-06
+date: 2026-06-08
 image:
 categories: Ethiopian
 permalink: /recipes/ethiopian-green-salad.html
-servings:
-calories:
+servings: 2
+calories: 60
 ---
 
 There’s nothing overtly Ethiopian about this salad, but it is a common accompaniment to Ethiopian meals and has a bright, fresh flavor that balances the rich, spicy dishes. Put a pile of it on the [injera]({% post_url "2026-06-05-quick-ethiopian-flatbread-injera" %}) alongside your other dishes.
