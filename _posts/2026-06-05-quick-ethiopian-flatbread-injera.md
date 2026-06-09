@@ -14,7 +14,7 @@ One of my last home cooking challenges is to master Ethiopian food. It has been 
 ### Ingredients
 
 - 3/4 cup all-purpose flour
-- 1/4 cup teff flour
+- 1/2 cup teff flour
 - 1/8 teaspoon instant yeast
 - 1 1/2 cup warm water
 - 2 teaspoons cultured buttermilk
