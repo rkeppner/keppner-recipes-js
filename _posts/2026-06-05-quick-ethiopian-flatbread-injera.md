@@ -19,6 +19,8 @@ One of my last home cooking challenges is to master Ethiopian food. It has been 
 - 1 1/2 cup warm water
 - 2 teaspoons cultured buttermilk
 - 2 tablespoons white vinegar
+- 1/4 teaspoon salt
+- Oil or cooking spray for skillet
 
 ### Directions
 
