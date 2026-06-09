@@ -14,8 +14,6 @@ This recipe traditionally uses a whole, cut-up chicken, but I use a mix of bonel
 ### Ingredients
 
 - 2 tablespoons ghee or butter
-- 1 teaspoon garlic paste
-- 1 teaspoon ginger paste
 - 1/2 teaspoon ground cardamom
 - 1/2 teaspoon oregano
 - 1/2 teaspoon ground cumin
@@ -42,7 +40,7 @@ This recipe traditionally uses a whole, cut-up chicken, but I use a mix of bonel
 
 ### Directions
 
-1. Heat ghee or butter in Instant Pot set to sauté mode. Add garlic and ginger paste, cardamom, oregano, cumin, turmeric, and fenugreek. Stir to combine and cook for about 1 minute until fragrant.
+1. Heat ghee or butter in Instant Pot set to sauté mode. Add cardamom, oregano, cumin, turmeric, and fenugreek. Stir to combine and cook for about 1 minute until fragrant.
 1. Add sliced onion, sprinkle with a pinch of salt, and cook, stirring frequently, until caramelized, about 15 minutes.
 1. Clear space in center of pot and add olive oil, garlic, and ginger paste and cook for about 1 minute until fragrant. Add tomato paste and cook for another minute. Add chicken, berbere, garam masala, Korean chili flakes, thyme, salt, and pepper. Stir to coat chicken with spices, then cook until browned on all sides, about 10 minutes.
 1. Add mirin and deglaze, scraping up any browned bits from bottom of pot. Add chicken broth and sweetener and stir to combine. Close lid and set to slow cook for 3 hours, until chicken is falling apart.
