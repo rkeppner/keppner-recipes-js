@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ethiopian Collard Greens (Gomen Wat)'
-date: 2026-06-07
+date: 2026-06-08
 image:
 categories: Ethiopian
 permalink: /recipes/ethiopian-collard-greens-gomen-wat.html
