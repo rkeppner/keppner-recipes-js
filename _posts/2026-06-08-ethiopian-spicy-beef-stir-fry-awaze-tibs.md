@@ -19,8 +19,8 @@ This dish typically uses beef tenderloin, but I use the cheapest cut I can find 
 - 1 jalapeño, thinly sliced
 - 2 tablespoon garlic paste
 - 2 tablespoon ginger paste
-- 1 tablespoon dried rosemary
 - 3 tablespoons berbere
+- 1 teaspoon dried rosemary, crushed
 - 1/2 teaspoon salt
 - 1/2 teaspoon black pepper
 - 1 cup diced tomatoes
@@ -31,8 +31,8 @@ This dish typically uses beef tenderloin, but I use the cheapest cut I can find 
 
 ### Directions
 
-1. Heat oil in large skillet over medium-high heat. Add beef and cook until browned on all sides, about 5 minutes. Remove beef from skillet and set aside.
-1. Add onion to skillet and cook until soft, about 5 minutes. Add jalapeño, garlic paste, and ginger paste and cook for another minute until fragrant. Add rosemary, berbere, salt, and pepper and stir to coat vegetables with spices.
+1. Heat oil in large skillet over medium-high heat. Season beef with salt, and add to skillet. Cook until browned on all sides, about 5 minutes. Remove beef from skillet and set aside.
+1. Add onion to skillet and cook until soft, about 5 minutes. Add jalapeño, garlic paste, and ginger paste and cook for another minute until fragrant. Add berbere, rosemary, salt, and pepper and stir to coat vegetables with spices.
 1. Add diced tomatoes, tomato sauce, and sweetener, stir to combine, and cook for another 5–7 minutes until sauce is thickened.
 1. Reduce heat to low, return beef to skillet, cover, and simmer until beef is tender, about 30 minutes. Remove cover and cook until sauce is thickened to your liking, about 10 minutes more.
 1. Stir in ghee or butter until melted and combined. Adjust seasoning to taste and sprinkle with cilantro before serving. Serve with injera.
