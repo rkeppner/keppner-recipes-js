@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ethiopian Red Lentil Stew (Mesir Wat)'
-date: 2026-06-08
+date: 2026-06-11
 image:
 categories: Ethiopian
 permalink: /recipes/ethiopian-red-lentil-stew-mesir-wat.html

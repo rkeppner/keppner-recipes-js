@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ethiopian Yellow Split Pea Stew (Kik Alicha)'
-date: 2026-06-08
+date: 2026-06-11
 image:
 categories: Ethiopian
 permalink: /recipes/ethiopian-yellow-split-pea-stew-kik-alicha.html
