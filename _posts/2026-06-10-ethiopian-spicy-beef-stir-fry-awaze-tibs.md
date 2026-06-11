@@ -1,12 +1,12 @@
 ---
 layout: post
 title: 'Ethiopian Spicy Beef Stir-Fry (Awaze Tibs)'
-date: 2026-06-08
+date: 2026-06-10
 image:
 categories: Ethiopian
 permalink: /recipes/ethiopian-spicy-beef-stir-fry-awaze-tibs.html
 servings: 6
-calories: 300
+calories: 280
 ---
 
 This dish typically uses beef tenderloin, but I use the cheapest cut I can find and cook it until tender. The key to the flavor is the awaze sauce, which is a spicy blend of berbere, garlic, ginger, and other spices. Serve it with [injera]({% post_url "2026-06-06-quick-ethiopian-flatbread-injera" %}) and [cabbage and carrots]({% post_url "2026-06-07-ethiopian-cabbage-carrots" %}) for a complete meal.
@@ -24,8 +24,8 @@ This dish typically uses beef tenderloin, but I use the cheapest cut I can find 
 - 1/2 teaspoon salt
 - 1/2 teaspoon black pepper
 - 1 cup diced tomatoes
-- 15 ounce can tomato sauce
-- 1 tablespoon sweetener
+- 1 cup tomato sauce
+- 1 teaspoon sweetener
 - 1 tablespoon ghee or butter
 - 1 tablespoon chopped fresh cilantro
 
