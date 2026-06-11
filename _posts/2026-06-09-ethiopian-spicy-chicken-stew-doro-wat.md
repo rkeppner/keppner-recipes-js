@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ethiopian Spicy Chicken Stew (Doro Wat)'
-date: 2026-06-08
+date: 2026-06-09
 image:
 categories: Ethiopian
 permalink: /recipes/ethiopian-spicy-chicken-stew-doro-wat.html
