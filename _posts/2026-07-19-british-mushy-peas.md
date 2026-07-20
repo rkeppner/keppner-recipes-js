@@ -9,7 +9,7 @@ servings: 8
 calories: 146
 ---
 
-A traditional British side dish made from marrowfat peas. I needed a traditional side when I made toad in the hole, and this was the perfect accompaniment. Mushy peas are often served with fish and chips, but they also pair well with other British dishes.
+A traditional British side dish made from marrowfat peas. I needed a traditional side when I made [toad in the hole]({% post_url "2025-03-29-toad-in-the-hole" %}), and this was the perfect accompaniment. Mushy peas are often served with fish and chips, but they also pair well with other British dishes.
 
 ### Ingredients
 
