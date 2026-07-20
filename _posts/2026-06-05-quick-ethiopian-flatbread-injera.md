@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Quick Ethiopian Flatbread (Injera)'
-date: 2026-06-06
+date: 2026-06-05
 image:
 categories: Ethiopian
 permalink: /recipes/quick-ethiopian-flatbread-injera.html
