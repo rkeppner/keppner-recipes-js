@@ -9,7 +9,7 @@ servings: 8
 calories: 234
 ---
 
-A simpler, vegetarian option to go with your [injera]({% post_url "2026-06-06-quick-ethiopian-flatbread-injera" %}), or as part of a larger Ethiopian meal.
+A simpler, vegetarian option to go with your [injera]({% post_url "2026-06-05-quick-ethiopian-flatbread-injera" %}), or as part of a larger Ethiopian meal.
 
 ### Ingredients
 
