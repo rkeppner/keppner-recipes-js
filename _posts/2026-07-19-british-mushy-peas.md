@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'British Mushy Peas'
-date: 2026-06-11
+date: 2026-07-19
 image:
 categories: British
 permalink: /recipes/british-mushy-peas.html
