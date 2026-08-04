@@ -3,7 +3,7 @@ layout: post
 title: 'Fake, Cheap Nutella'
 date: 2026-07-30
 image:
-categories: British
+categories: Dessert
 permalink: /recipes/fake-nutella.html
 servings: 28
 calories: 65
