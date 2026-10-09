@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sheet Pan Pot Pie'
-date: 2026-07-26
+date: 2026-10-04
 image:
 categories:
 permalink: /recipes/sheet-pan-pot-pie.html
