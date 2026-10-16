@@ -33,5 +33,5 @@ I only rarely make ribs, usually when I find them on sale. They take too long to
 1. Salt ribs well, then coat lightly with yellow mustard. Sprinkle dry rub over ribs.
 1. In dutch oven, layer sliced onions on the bottom, then place ribs on top. Cover with lid.
 1. Bake in preheated oven for 1 hour, then flip ribs. Repeat until ribs are tender, about 2 more hours.
-1. Remove lid and baste ribs with barbecue sauce. Return to oven and bake for an additional 20 minutes, until sauce is caramelized. Flip ribs and baste the other side as well. Return to oven for another 20 minutes.
+1. Remove lid and baste ribs with barbecue sauce. Increase oven temperature to 350°F, return ribs, and bake for an additional 20 minutes, until sauce is caramelized. Flip ribs and baste the other side as well. Bake for another 20 minutes.
 1. Remove ribs from oven and let rest for 10 minutes before serving.
