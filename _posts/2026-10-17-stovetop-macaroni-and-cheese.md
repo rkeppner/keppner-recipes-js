@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Stovetop Macaroni and Cheese'
-date: 2026-10-12
+date: 2026-10-17
 image:
 categories: Pasta
 permalink: /recipes/stovetop-macaroni-and-cheese.html
